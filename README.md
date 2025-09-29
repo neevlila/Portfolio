@@ -4,11 +4,11 @@
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-### Live preview: https://www.abhijitzende.com/
+### Live preview: https://neevlila.vercel.app/
 
 ![Preview](https://github.com/neevlila/Portfolio/blob/main/public/assets/preview_video.gif?raw=true)
 
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
+https://github.com/neevlila/Portfolio/blob/main/preview_video.mp4
 
 ## 🔥 Features
 
@@ -81,7 +81,7 @@ The portfolio website is built using the following tools and technologies:
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.abhijitzende.com/).
+This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://neevlila.vercel.app/).
 
 ### Setting up Resend API on Vercel
 
