@@ -1,4 +1,4 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
+![Portfolio Preview](https://github.com/neevlila/Portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
 
 # 🚀 My Portfolio Website
 
@@ -6,11 +6,9 @@ Welcome to the repository for my personal portfolio website! 🎉 This project i
 
 ### Live preview: https://www.abhijitzende.com/
 
-![Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/preview_video.gif?raw=true)
+![Preview](https://github.com/neevlila/Portfolio/blob/main/public/assets/preview_video.gif?raw=true)
 
 https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
-
-This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
 
 ## 🔥 Features
 
@@ -49,12 +47,12 @@ The portfolio website is built using the following tools and technologies:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
+   git clone https://github.com/neevlila/Portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd 3D-interactive-portfolio
+   cd Portfolio
    ```
 
 3. Install dependencies:
@@ -97,16 +95,12 @@ This project is deployed using **Vercel** for its blazing-fast performance and e
 
 Note: Make sure to keep your API key secret and never commit it to your repository.
 
-## 💖 Acknowledgments
-
-A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
-
 ## 📬 Contact
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
-- **Email:** abhijitzende75@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+- **Email:** nneev223@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/neev-lila-292b46301)
 
 ---
 
